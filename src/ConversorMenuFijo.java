@@ -8,7 +8,7 @@ import java.net.URL;
 import java.util.Scanner;
 
     public class ConversorMenuFijo {
-        private static final String API_KEY = "95a93a5e504ab138ec9a5ba7"; // <-- reemplaza por tu clave real
+        private static final String API_KEY = "95a93a5e504ab138ec9a5ba7"; // <-- reemplazar por la clave generada
         private static final String API_BASE = "https://v6.exchangerate-api.com/v6/" + API_KEY;
         private static final Scanner scanner = new Scanner(System.in);
 
